@@ -6,7 +6,7 @@
 - I'm a budding Android App Developer, in love with flutter and a DevOps Enthusiast.
 - Nowadays hanging out with K8s and Docker....these guys are awesome
 - Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
-- 🎯 I got selected in Script Winter of Contributing(SWoC) as an Android Developer
+- <img align="left" height="26px" src="https://user-images.githubusercontent.com/79656610/153702972-6245d4dc-f4d9-4c54-94ba-6cdbf397fb54.gif"/>I got selected in Script Winter of Contributing(SWoC) as an Android Developer
 
 - 🎯 Contributed to Delta Winter of Contributing (DWoC), held by Nit Trichy\
 - 📱Talks about Android App Development
