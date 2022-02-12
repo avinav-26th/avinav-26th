@@ -7,20 +7,30 @@ I'm a budding Android App Developer, in love with flutter and a DevOps Enthusias
 Nowadays hanging out with K8s and Docker....these guys are awesome
 Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
 
-### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+#### My TechStack
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/79656610/153699306-af31cd6d-8143-4877-b95d-72167f80cb3c.png" alt="C++" width="50" height="50"/>
-<!--   <img src="![C](https://user-images.githubusercontent.com/79656610/153699416-b1272bcd-43ca-4c89-a7b6-8c05c25e4a69.png)
-" alt="C++" width="50" height="50"/>
-  <img src="![Java](https://user-images.githubusercontent.com/79656610/153699423-7e2005d6-ea04-4037-974b-7f589629db3e.png)
-" alt="C++" width="50" height="50"/>
-  <img src="![Dart](https://user-images.githubusercontent.com/79656610/153699433-4b3db9c8-a55b-4098-9950-01f51931f4df.png)
-" alt="C++" width="50" height="50"/>
-  <img src="![Kotlin](https://user-images.githubusercontent.com/79656610/153699436-1fe80a0f-a15e-4384-af93-bac3261e5c19.png)
-" alt="C++" width="50" height="50"/> -->
-  <img src="https://user-images.githubusercontent.com/79656610/153699491-093eafab-1618-4ff1-8209-3076f2d03484.png" alt="C++" width="50" height="50"/>
-<!--   <img src="" alt="C++" width="50" height="50"/> -->
+  <img src="https://user-images.githubusercontent.com/79656610/153699306-af31cd6d-8143-4877-b95d-72167f80cb3c.png" alt="C++" width="50" height="50"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699416-b1272bcd-43ca-4c89-a7b6-8c05c25e4a69.png" alt="C" width="50" height="50"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699423-7e2005d6-ea04-4037-974b-7f589629db3e.png" alt="Java" width="50" height="50"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699433-4b3db9c8-a55b-4098-9950-01f51931f4df.png" alt="Dart" width="50" height="50"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699436-1fe80a0f-a15e-4384-af93-bac3261e5c19.png" alt="Kotlin" width="50" height="50"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699679-1fc17584-dc68-4249-8afd-417c1dab74ac.png" alt="HTML 5" width="50" height="50"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699733-247200fc-6480-4905-addf-1d5e1ffba4a5.png" alt="CSS 3" width="40" height="40"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699795-6577e1cb-e0e5-4946-a645-12fb9267a58a.png" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://user-images.githubusercontent.com/79656610/153699740-e6dcd939-5f6b-4953-9a41-5c20f86a448e.png" alt="YAML" width="40" height="40"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/79656610/153700537-872d318b-7654-4bed-995b-088b1a14a066.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700541-4cec50f0-1d7a-4181-b42b-380fbd10ed6c.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700562-f4c8f0d0-0ac2-4dd1-a50d-6e84f532df79.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700577-eb634580-1d8d-4be5-a820-90f9907a0490.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700553-110a75e5-ca66-450f-869f-97b480e52733.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700581-282c6a67-b4b2-47f2-8217-6972104134b4.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700584-835b5a83-fec2-4372-a3d2-336aac49b158.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700607-ba85ddb4-c095-45e0-88b3-20650b68cb9d.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700623-c9e7cb24-55fc-4697-924d-693f8bf769cd.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700633-9d435e43-2cb2-4cbb-b68f-b0efcbb5eb0d.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700638-38b428c9-87a1-4cf4-8f20-a012b0878f24.png" alt="C++" width="40" height="40"/>
 </p>
 
 
@@ -46,7 +56,7 @@ Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Inst
   <img align="left" width="37px" height="20px" src="https://user-images.githubusercontent.com/79656610/153366716-64e6a32e-0d31-4307-8df1-5a17b83a72ba.png" />
 </a>
 <a href="https://discord.gg/bNZGeFUZ">
-  <img align="left" width="40px" height="23px" src="https://user-images.githubusercontent.com/79656610/153370662-c4c0ee86-21f5-4f83-96fe-7b67464fd09b.png" />
+  <img align="left" width="40px" height="23px" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" />
 </a>
 <br />
 <br />
