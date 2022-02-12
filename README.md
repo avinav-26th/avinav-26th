@@ -3,9 +3,13 @@
 <!-- ### broadcasting live<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 
-I'm a budding Android App Developer, in love with flutter and a DevOps Enthusiast.
-Nowadays hanging out with K8s and Docker....these guys are awesome
-Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
+- I'm a budding Android App Developer, in love with flutter and a DevOps Enthusiast.
+- Nowadays hanging out with K8s and Docker....these guys are awesome
+- Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
+- 🎯 I got selected in Script Winter of Contributing(SWoC) as an Android Developer
+
+- 🎯 Contributed to Delta Winter of Contributing (DWoC), held by Nit Trichy\
+- 📱Talks about Android App Development
 
 #### My TechStack
 
@@ -20,17 +24,17 @@ Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Inst
   <img src="https://user-images.githubusercontent.com/79656610/153699795-6577e1cb-e0e5-4946-a645-12fb9267a58a.png" alt="JavaScript" width="40" height="40"/>  
   <img src="https://user-images.githubusercontent.com/79656610/153699740-e6dcd939-5f6b-4953-9a41-5c20f86a448e.png" alt="YAML" width="40" height="40"/>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/79656610/153700537-872d318b-7654-4bed-995b-088b1a14a066.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700541-4cec50f0-1d7a-4181-b42b-380fbd10ed6c.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700562-f4c8f0d0-0ac2-4dd1-a50d-6e84f532df79.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700577-eb634580-1d8d-4be5-a820-90f9907a0490.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700553-110a75e5-ca66-450f-869f-97b480e52733.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700581-282c6a67-b4b2-47f2-8217-6972104134b4.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700584-835b5a83-fec2-4372-a3d2-336aac49b158.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700607-ba85ddb4-c095-45e0-88b3-20650b68cb9d.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700623-c9e7cb24-55fc-4697-924d-693f8bf769cd.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700633-9d435e43-2cb2-4cbb-b68f-b0efcbb5eb0d.png" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700638-38b428c9-87a1-4cf4-8f20-a012b0878f24.png" alt="C++" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700537-872d318b-7654-4bed-995b-088b1a14a066.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700541-4cec50f0-1d7a-4181-b42b-380fbd10ed6c.png" alt="Android Studio" width="45" height="45"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700562-f4c8f0d0-0ac2-4dd1-a50d-6e84f532df79.png" alt="FireBase" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700577-eb634580-1d8d-4be5-a820-90f9907a0490.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700553-110a75e5-ca66-450f-869f-97b480e52733.png" alt="Docker" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700581-282c6a67-b4b2-47f2-8217-6972104134b4.png" alt="MiniKube" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700584-835b5a83-fec2-4372-a3d2-336aac49b158.png" alt="Kubernetes" width="55" height="55"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700607-ba85ddb4-c095-45e0-88b3-20650b68cb9d.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700623-c9e7cb24-55fc-4697-924d-693f8bf769cd.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700633-9d435e43-2cb2-4cbb-b68f-b0efcbb5eb0d.png" alt="Git" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/79656610/153700638-38b428c9-87a1-4cf4-8f20-a012b0878f24.png" alt="Ubuntu" width="40" height="40"/>
 </p>
 
 
@@ -63,3 +67,4 @@ Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Inst
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avinav-26th)
 
+<!-- [![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers) -->
