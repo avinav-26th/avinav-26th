@@ -4,7 +4,7 @@
 
 
 - I'm an **Android App Developer** <img height="22px" src="https://user-images.githubusercontent.com/79656610/156713595-46903260-159b-4c30-b2ab-a7f223be0a21.gif"/>....who is in love with <img height="22px" src="https://user-images.githubusercontent.com/79656610/156712091-843b5ccf-9331-4468-9db4-2b6305ed524b.gif"/> **Flutter**.
-- <img height="15px" src="https://user-images.githubusercontent.com/79656610/156711838-f8934b10-2b55-4ca6-8b7b-9f8c74285bfa.gif"/> **DevOps Enthusiast**, nowadays hanging out with **K8s** and **Docker**....these guys are awesome
+- <img height="15px" src="https://user-images.githubusercontent.com/79656610/156711838-f8934b10-2b55-4ca6-8b7b-9f8c74285bfa.gif"/> **DevOps Enthusiast**, nowadays hanging out with **K8s** and **Docker**....these guys are awesome🤩
 - Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
 - <img align="left" height="26px" src="https://user-images.githubusercontent.com/79656610/153702972-6245d4dc-f4d9-4c54-94ba-6cdbf397fb54.gif"/>`I got selected in Script Winter of Contributing(SWoC) as an Android Developer`
 
