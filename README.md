@@ -1,10 +1,10 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> Hello world!
 
-<a href="#"><img width="100%" height="80px" src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Avii;Welcome+to+my+GitHub+profile+:%29&center=true&vCenter=true&size=50&width=1000&height=100&color=086ccc" /></a>
+<a href="#"><img width="100%" height="80px" src="https://readme-typing-svg.herokuapp.com/?lines=Avinav+here!;Welcome+to+my+GitHub+profile+:%29&center=true&vCenter=true&size=50&width=1000&height=100&color=086ccc" /></a>
 
 
 - I'm an **Android App Developer** <img height="22px" src="https://user-images.githubusercontent.com/79656610/156713595-46903260-159b-4c30-b2ab-a7f223be0a21.gif"/> and currently developing Mobile applications using <img height="22px" src="https://user-images.githubusercontent.com/79656610/156712091-843b5ccf-9331-4468-9db4-2b6305ed524b.gif"/> **Flutter**
-- Currently persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
+- Persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
 - <img align="left" height="26px" src="https://user-images.githubusercontent.com/79656610/153702972-6245d4dc-f4d9-4c54-94ba-6cdbf397fb54.gif"/>`I got selected in Script Winter of Contributing(SWoC) as an Android Developer`
 
 - <img align="left" height="26px" src="https://user-images.githubusercontent.com/79656610/153702972-6245d4dc-f4d9-4c54-94ba-6cdbf397fb54.gif"/>`Contributed to Delta Winter of Contributing (DWoC), held by Nit Trichy`
