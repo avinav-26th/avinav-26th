@@ -78,7 +78,7 @@
 <p float="left">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=avinav-26th&count_private=true&show_icons=true&title_color=086ccc&text_color=ffffff&icon_color=7ffd01&border_color=dddddd&bg_color=000000" title="" alt="Avinav Prasad's GitHub stats" />
 
-<img height="180" src="https://activity-graph.herokuapp.com/graph?username=avinav-26th&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Avinav Prasad's GitHub Contribution Graph" />
+<img height="170" src="https://activity-graph.herokuapp.com/graph?username=avinav-26th&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Avinav Prasad's GitHub Contribution Graph" />
 
 </p>
 <!-- [![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers) -->
