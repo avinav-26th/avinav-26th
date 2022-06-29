@@ -71,7 +71,7 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=avinav-26th)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=avinav-26th&left_color=black&right_color=%2306c43c)
 
 ---
 
