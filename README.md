@@ -78,6 +78,9 @@
 <div>
   <table>
     <tr>
+      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinav-26th&show_icons=true&locale=en&layout=compact&title_color=086ccc&theme=chartreuse-dark&text_color=0cfed1" alt="avinav-26th" /></p>
+    </tr>
+    <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=avinav-26th&count_private=true&show_icons=true&title_color=086ccc&text_color=0cfed1&icon_color=7ffd01&border_color=dddddd&bg_color=000000" title="" alt="Avinav Prasad's GitHub stats">
       </td>
