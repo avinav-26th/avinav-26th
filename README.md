@@ -44,6 +44,10 @@
   <img src="https://user-images.githubusercontent.com/79656610/153700638-38b428c9-87a1-4cf4-8f20-a012b0878f24.png" alt="Ubuntu" width="55" height="55"/>
 </p>
 
+<a href="https://github.com/avinav-26th/resume">
+  <b>Here's my resume</b>
+</a>
+
 <br/>
 
 ## Let's connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
