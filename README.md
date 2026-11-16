@@ -1,99 +1,146 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> Hello world!
-
-<a href="#"><img width="100%" height="80px" src="https://readme-typing-svg.herokuapp.com/?lines=Avinav+here!;Welcome+to+my+GitHub+profile+:%29&center=true&vCenter=true&size=50&width=1000&height=100&color=086ccc" /></a>
-
-
-- I'm an **Android App Developer** <img height="22px" src="https://user-images.githubusercontent.com/79656610/156713595-46903260-159b-4c30-b2ab-a7f223be0a21.gif"/> and currently developing Mobile applications using <img height="22px" src="https://user-images.githubusercontent.com/79656610/156712091-843b5ccf-9331-4468-9db4-2b6305ed524b.gif"/> **Flutter**
-- Persuing Integrated M.Sc. in Mathematics and Computing from Birla Institute of Technology Mesra, Ranchi
-- <img align="left" height="26px" width="26px" src="https://user-images.githubusercontent.com/79656610/153702972-6245d4dc-f4d9-4c54-94ba-6cdbf397fb54.gif"/>`I got selected in Script Winter of Contributing(SWoC) as an Android Developer`
-
-- <img align="left" height="26px" width="26px" src="https://user-images.githubusercontent.com/79656610/153702972-6245d4dc-f4d9-4c54-94ba-6cdbf397fb54.gif"/>`Contributed to Delta Winter of Contributing (DWoC), held by Nit Trichy`
-- <img height="15px" src="https://user-images.githubusercontent.com/79656610/156711838-f8934b10-2b55-4ca6-8b7b-9f8c74285bfa.gif"/> **DevOps Enthusiast**, sometimes hanging out with **K8s** and **Docker**🤩
-- *Talks about **Android App Development** and problem solving using **DSA (in C++)**.*
-
-### My TechStack
-
-#### Programming Languages:
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/79656610/153699306-af31cd6d-8143-4877-b95d-72167f80cb3c.png" alt="C++" width="70" height="70"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699416-b1272bcd-43ca-4c89-a7b6-8c05c25e4a69.png" alt="C" width="70" height="70"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699423-7e2005d6-ea04-4037-974b-7f589629db3e.png" alt="Java" width="70" height="70"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699433-4b3db9c8-a55b-4098-9950-01f51931f4df.png" alt="Dart" width="70" height="70"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699436-1fe80a0f-a15e-4384-af93-bac3261e5c19.png" alt="Kotlin" width="70" height="70"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699679-1fc17584-dc68-4249-8afd-417c1dab74ac.png" alt="HTML 5" width="70" height="70"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699733-247200fc-6480-4905-addf-1d5e1ffba4a5.png" alt="CSS 3" width="60" height="60"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699795-6577e1cb-e0e5-4946-a645-12fb9267a58a.png" alt="JavaScript" width="60" height="60"/>  
-  <img src="https://user-images.githubusercontent.com/79656610/153699740-e6dcd939-5f6b-4953-9a41-5c20f86a448e.png" alt="YAML" width="60" height="60"/>
- </p>
- 
- #### Tools and Technologies:
-  
- <p align="left">
-  <img src="https://user-images.githubusercontent.com/79656610/153700537-872d318b-7654-4bed-995b-088b1a14a066.png" alt="Flutter" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700541-4cec50f0-1d7a-4181-b42b-380fbd10ed6c.png" alt="Android" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/79656610/205474192-e33d1b3b-83ef-4ae3-88b4-20491471a6f1.png" alt="Android Sutdio" width="70" height="70"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700562-f4c8f0d0-0ac2-4dd1-a50d-6e84f532df79.png" alt="FireBase" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700577-eb634580-1d8d-4be5-a820-90f9907a0490.png" alt="MongoDB" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700553-110a75e5-ca66-450f-869f-97b480e52733.png" alt="Docker" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700581-282c6a67-b4b2-47f2-8217-6972104134b4.png" alt="MiniKube" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700584-835b5a83-fec2-4372-a3d2-336aac49b158.png" alt="Kubernetes" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700607-ba85ddb4-c095-45e0-88b3-20650b68cb9d.png" alt="VS Code" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700623-c9e7cb24-55fc-4697-924d-693f8bf769cd.png" alt="GitHub" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700633-9d435e43-2cb2-4cbb-b68f-b0efcbb5eb0d.png" alt="Git" width="55" height="55"/>
-  <img src="https://user-images.githubusercontent.com/79656610/153700638-38b428c9-87a1-4cf4-8f20-a012b0878f24.png" alt="Ubuntu" width="55" height="55"/>
+<h1 align="center">Hey, I'm Avinav Prasad 👋</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=I+build+and+ship+software+products;Web+%7C+Mobile+%7C+Dev+Tools;Turning+ideas+into+working+products&center=true&vCenter=true&width=700&height=45&size=20&color=2F80ED">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+and+ship+software+products;Web+%7C+Mobile+%7C+Dev+Tools;Turning+ideas+into+working+products&center=true&vCenter=true&width=700&height=45&size=20&color=2F80ED" alt="I build and ship software products" />
+  </a>
 </p>
 
-<a href="https://github.com/avinav-26th/resume">
-  <b>Here's my resume</b>
-</a>
+<p align="center">
+  I'm a product-minded software developer who enjoys taking ideas from architecture to launch.
+</p>
+<p align="center">
+  I work across <strong>web, mobile, dev tools, and e-commerce </strong>— bringing frontend,
+  backend, and infrastructure together to build useful products.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://avinav-prasad.vercel.app/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/avinav-26th"><strong>GitHub</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/avinav-prasad-14022b206/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:avinav2611@gmail.com"><strong>Email</strong></a>
+</p>
 
-## Let's connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<h3> A little about me </h3>
 
-<a href="https://www.linkedin.com/in/avinav-prasad-14022b206/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/avinav2108">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="mailto:avinav2611@gmail.com">
-  <img align="left" width="26px" src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" />
-</a>
-<a href="https://avinav-26th319.showwcase.com/">
-  <img align="left" width="26px" src="https://user-images.githubusercontent.com/79656610/153364329-c7a6a432-2e44-4020-b4d9-993c669ad40a.png" />
-</a>
-<a href="https://avii.hashnode.dev/">
-  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/avinav2611/practice/">
-  <img align="left" width="37px" height="20px" src="https://user-images.githubusercontent.com/79656610/153366716-64e6a32e-0d31-4307-8df1-5a17b83a72ba.png" />
-</a>
-<a href="https://discord.gg/bNZGeFUZ">
-  <img align="left" width="40px" height="23px" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" />
-</a>
-<br />
-<br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=avinav-26th&left_color=black&right_color=%2306c43c)
+- 🧩 **I love connecting the dots** — moving between frontend, backend, mobile, and infrastructure to see how the pieces come together.
+- 🚀 **Ideas are meant to be built** — I enjoy taking something from a rough sketch or a random thought to a working product people can actually use.
+- 🔍 **Naturally curious about the why** — I like exploring what's happening under the hood, whether it's system architecture, developer workflows, or how things communicate.
+- 🎨 **A little obsessed with the details** — thoughtful UI/UX, smooth interactions, and those tiny touches that make software feel good to use matter to me.
+- 🤖 **Exploring where AI fits** — not just adding AI for the sake of it, but finding ways to make everyday workflows genuinely smarter and more useful.
+- 🎸 **Beyond the terminal** — you'll probably find me playing guitar, exploring music, or experimenting with a new idea.
 
 ---
 
-<div>
-  <table>
-    <tr>
-      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinav-26th&show_icons=true&locale=en&layout=compact&title_color=086ccc&theme=chartreuse-dark&text_color=0cfed1" alt="avinav-26th" /></p>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=avinav-26th&count_private=true&show_icons=true&title_color=086ccc&text_color=0cfed1&icon_color=7ffd01&border_color=dddddd&bg_color=000000" title="" alt="Avinav Prasad's GitHub stats">
-      </td>
-      <td width="50%">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=avinav-26th&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&ring=086CCC&fire=086CCC&currStreakNum=7FFD01&currStreakLabel=086CCC&sideNums=086CCC&dates=0cfed1" title="" alt="Avinav's GitHub streak" >
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center"> My TechStack </h3>
 
-<!-- [![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers) -->
+<h4 align="left"> Frontend Engineering </h4>
+<p align="left">
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855919/nextjs.png" alt="Next.js" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855924/react.png" alt="React.js" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855921/remixjs.png" alt="Remix.js" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855925/typescript.png" alt="TypeScript" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855911/javascript.png" alt="JavaScript" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855925/tailwind.png" alt="Tailwind CSS" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855907/html5.png" alt="HTML5" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855900/css3.png" alt="CSS3" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855901/bootstrap.png" alt="Bootstrap" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855920/materalui.png" alt="Material UI" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855902/figma.png" alt="Figma" width="48" height="48" />
+</p>
+
+<h4 align="right"> Backend & Databases </h4>
+<p align="right">
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855920/node.png" alt="Node.js" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855901/express.png" alt="Express.js" width="64" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855907/fastapi.png" alt="FastAPI" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855926/python.png" alt="Python" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855921/restapi.png" alt="REST APIs" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855918/graphql.png" alt="GraphQL" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855921/postgresql.png" alt="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855914/mongodb.png" alt="MongoDB" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855902/firebase.png" alt="Firebase" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855924/supabase.png" alt="Supabase" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855921/postman.png" alt="Postman" width="48" height="48" />
+</p>
+
+<h4 align="left"> Shopify & Dev Tooling </h4>
+<p align="left">
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794858420/shopify.png" alt="Shopify" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855919/liquid.png" alt="Liquid" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794854897/chrome-extensions.png" alt="Chrome Extensions" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855903/git.png" alt="Git" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855910/github.png" alt="GitHub" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855920/gitlab.png" alt="GitLab" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855901/cicd.png" alt="CI / CD" width="64" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855919/npm.png" alt="npm" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855925/yaml.png" alt="YAML" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855911/groq.png" alt="Groq AI" width="48" height="48" />
+</p>
+
+<h4 align="right"> Cloud, Mobile & Systems </h4>
+<p align="right">
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855901/flutter.png" alt="Flutter" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794854899/dart.png" alt="Dart" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855900/docker.png" alt="Docker" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855913/kubernetes.png" alt="Kubernetes" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855913/linux.png" alt="Linux" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794854896/amazon-s3.png" alt="Amazon S3" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855900/cloudflare-r2.png" alt="Cloudflare R2" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794854896/c-plus-plus.png" alt="C++" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794854896/c.png" alt="C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855907/java.png" alt="Java" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/zk7a8fpi/image/upload/v1794855918/kotlin.png" alt="Kotlin" width="48" height="48" />
+</p>
+
+---
+
+<h3> Beyond the keyboard </h3>
+
+*When I'm not building software, I'm usually* **exploring UI/UX ideas**, **playing guitar**, *or* **getting lost in music**.
+
+
+<!-- GitHub activity
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avinav-26th&show_icons=true&hide_border=true&theme=transparent" alt="Avinav's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinav-26th&layout=compact&hide_border=true&theme=transparent" alt="Avinav's most-used languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avinav-26th&hide_border=true&theme=transparent" alt="Avinav's GitHub streak" />
+</p>
+-->
+---
+
+<h2> Let's connect </h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/avinav-prasad-14022b206/">
+    <img align="left" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/avinav2108">
+    <img align="left" width="30" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" alt="Twitter" />
+  </a>
+  <a href="mailto:avinav2611@gmail.com">
+    <img align="left" width="30" src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" alt="Email" />
+  </a>
+  <a href="https://avinav-26th319.showwcase.com/">
+    <img align="left" width="30" src="https://user-images.githubusercontent.com/79656610/153364329-c7a6a432-2e44-4020-b4d9-993c669ad40a.png" alt="Showwcase" />
+  </a>
+  <a href="https://avii.hashnode.dev/">
+    <img align="left" width="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/avinav2611/practice/">
+    <img align="left" width="38" height="24" src="https://user-images.githubusercontent.com/79656610/153366716-64e6a32e-0d31-4307-8df1-5a17b83a72ba.png" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://discord.gg/bNZGeFUZ">
+    <img align="left" width="38" height="24" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" alt="Discord" />
+  </a>
+</p>
+
+<br clear="left" />
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=avinav-26th&label=visitors&color=16a34a&style=flat" alt="Visitors" />
+</p>
