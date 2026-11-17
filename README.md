@@ -13,12 +13,15 @@
   backend, and infrastructure together to build useful products.
 </p>
 
+
 <p align="center">
   <a href="https://avinav-prasad.vercel.app/"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/avinav-26th"><strong>GitHub</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/avinav-prasad-14022b206/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1lMt8lVYGxYE34Y-jjWxN_LBEvCJEuvmz/view?usp=sharing"><strong>Resume</strong></a>
   &nbsp;·&nbsp;
   <a href="mailto:avinav2611@gmail.com"><strong>Email</strong></a>
 </p>
