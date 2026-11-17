@@ -136,7 +136,7 @@
   <a href="https://auth.geeksforgeeks.org/user/avinav2611/practice/">
     <img align="left" width="38" height="24" src="https://user-images.githubusercontent.com/79656610/153366716-64e6a32e-0d31-4307-8df1-5a17b83a72ba.png" alt="GeeksforGeeks" />
   </a>
-  <a href="https://discord.gg/bNZGeFUZ">
+  <a href="https://discord.gg/TufWZZKUJb">
     <img align="left" width="38" height="24" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" alt="Discord" />
   </a>
 </p>
