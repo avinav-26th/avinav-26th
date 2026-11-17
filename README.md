@@ -21,7 +21,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/avinav-prasad-14022b206/"><strong>LinkedIn</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://drive.google.com/file/d/1lMt8lVYGxYE34Y-jjWxN_LBEvCJEuvmz/view?usp=sharing"><strong>Resume</strong></a>
+  <a href="https://drive.google.com/file/d/1a_dmjbe2ZW6n3UdvvYf_le4RI1bRFLax/view?usp=sharing"><strong>Resume</strong></a>
   &nbsp;·&nbsp;
   <a href="mailto:avinav2611@gmail.com"><strong>Email</strong></a>
 </p>
