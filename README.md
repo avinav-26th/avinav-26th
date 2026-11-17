@@ -134,10 +134,13 @@
     <img align="left" width="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/avinav2611/practice/">
-    <img align="left" width="38" height="24" src="https://user-images.githubusercontent.com/79656610/153366716-64e6a32e-0d31-4307-8df1-5a17b83a72ba.png" alt="GeeksforGeeks" />
+    <img align="left" width="34" src="https://user-images.githubusercontent.com/79656610/153366716-64e6a32e-0d31-4307-8df1-5a17b83a72ba.png" alt="GeeksforGeeks" />
   </a>
   <a href="https://discord.gg/TufWZZKUJb">
-    <img align="left" width="38" height="24" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" alt="Discord" />
+    <img align="left" width="34" src="https://user-images.githubusercontent.com/79656610/153700508-562f6bad-816b-41d8-9560-00dab6de333e.png" alt="Discord" />
+  </a>
+  <a href="https://substack.com/@avii9">
+    <img align="left" width="30" src="https://github.com/user-attachments/assets/9424312f-b740-4eeb-960f-77e6c5c175e0" alt="Substack" />
   </a>
 </p>
 
